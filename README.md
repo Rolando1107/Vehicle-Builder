@@ -19,6 +19,7 @@ To use this application, ensure that you have Node.js installed on your machine.
 ## Usage
 To run the application, right-click on `index.ts` and open the integrated terminal. Execute the command `npm install` (or the shorthand `npm i`) to install the necessary packages. After installation, you can start the application by running the command `npm run start`. You are then free to interact with the app as you wish.
 
+https://1drv.ms/v/c/9b5bc19b15615740/EdjK2C9djQJLkOcTOUXtPVgBck7Wc3_MuMpVmERsseKuLw?e=MTBhCI
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
